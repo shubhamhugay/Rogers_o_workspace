@@ -1,0 +1,178 @@
+Basic Structure Tags:
+
+    <html>
+    <head>
+    <title>
+    <body>
+    <header>
+    <footer>
+    <main>
+    <nav>
+    <section>
+    <article>
+    <aside>
+    <h1> to <h6> (Heading tags)
+    <p> (Paragraph)
+    <a> (Anchor)
+    <br> (Line Break)
+    <hr> (Horizontal Rule)
+
+List Tags:
+
+    <ul> (Unordered List)
+    <ol> (Ordered List)
+    <li> (List Item)
+    <dl> (Definition List)
+    <dt> (Definition Term)
+    <dd> (Definition Description)
+
+Table Tags:
+
+    <table>
+    <caption>
+    <tr> (Table Row)
+    <th> (Table Header)
+    <td> (Table Data)
+    <thead> (Table Head)
+    <tbody> (Table Body)
+    <tfoot> (Table Foot)
+
+Form Tags:
+
+    <form>
+    <input>
+    <button>
+    <textarea>
+    <select>
+    <option>
+    <label>
+    checkbox
+    radiobutton
+    <datalist>
+    <fieldset>
+    <legend>
+    <progress>
+    <meter>
+    
+
+
+
+Multimedia Tags:
+
+    <img> (Image)
+    <audio>
+    <video>
+    <source>
+    <track>
+    <embed>
+    <object>
+    <canvas>
+    <figure>
+    <figcaption>
+    <map>
+    <area>
+    <picture>
+    <svg> (Scalable Vector Graphics)
+
+Text Formatting Tags:
+
+    <b> (Bold)
+    <strong> (Strong Importance)
+    <i> (Italic) 
+    <em> (Emphasis)
+    <u> (Underline)
+    <s> (Strikethrough)
+    <sub> (Subscript)
+    <sup> (Superscript)
+    <code> (Code)
+    <pre> (Preformatted Text)
+    <mark> (Marked/Highlighted Text)
+    <small> (Small Text)
+    <cite> (Citation)
+    <dfn> (Definition)
+    <abbr> (Abbreviation)
+    <time> (Date/Time)
+
+Semantic and Additional Tags:
+
+    <details>
+    <summary>
+    <address>
+    <blockquote> (Block Quotation)
+    <q> (Inline Quotation)
+    <cite> (Citation)
+    <ruby>
+    <rt>
+    <rp>
+    <bdi>
+    <dialog>
+    <slot>
+    <wbr> (Word Break Opportunity)
+    <template>
+    <noscript>
+    <script>
+    <style>
+    <meta>
+    <base>
+    <link>
+    <head>
+    <html>
+
+    
+
+Interactive Tags:
+
+    <details>
+    <dialog>
+    <menu>
+    <menuitem>
+
+Miscellaneous Tags:
+
+    <col>
+    <colgroup>
+    <datalist>
+    <frameset>
+    <frame>
+    <frame> (Obsolete)
+    <noscript>
+    <optgroup>
+    <param>
+    <tbody>
+    <tfoot>
+    <thead>
+    <template>
+    <track>
+
+Obsolete Tags:
+
+    <acronym> (Obsolete)
+    <applet> (Obsolete)
+    <basefont> (Obsolete)
+    <big> (Obsolete)
+    <blink> (Obsolete)
+    <center> (Obsolete)
+    <command> (Obsolete)
+    <content> (Obsolete)
+    <dir> (Obsolete)
+    <element> (Obsolete)
+    <font> (Obsolete)
+    <frame> (Obsolete)
+    <frameset> (Obsolete)
+    <image> (Obsolete)
+    <isindex> (Obsolete)
+    <keygen> (Obsolete)
+    <listing> (Obsolete)
+    <marquee> (Obsolete)
+    <menu> (Obsolete)
+    <multicol> (Obsolete)
+    <nextid> (Obsolete)
+    <nobr> (Obsolete)
+    <noembed> (Obsolete)
+    <noframes> (Obsolete)
+    <plaintext> (Obsolete)
+    <shadow> (Obsolete)
+    <spacer> (Obsolete)
+    <strike> (Obsolete)
+    <tt> (Obsolete)
+    <xmp> (Obsolete)

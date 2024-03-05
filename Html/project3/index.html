@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <form action="./successfull.html">
+      <fieldset>
+        <legend>Employee Details</legend>
+        <hr />
+        <!-- --------------------------------------------------------------------- -->
+        <label for="username"> Username :- </label>
+        <input type="text" id="username" name="uname" placeholder="username" />
+        <hr />
+        <!-- ---------------------------------------------------------------- -->
+        <label for="password"> Password : - </label>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="password"
+        />
+        <hr />
+        <!-- =--------------------------------------------------- -->
+        <label for="otherInfo"> Address : - </label>
+        <textarea
+          name="otherInfo"
+          id="otherInfoInput"
+          cols="10"
+          rows="1"
+          required
+          wrap="hard"
+        ></textarea>
+        <!-- --------------------------------------------------------- -->
+        <hr />
+        <label for="gender">Gender : </label>
+        <select name="selectTag" id="GENDER">
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">other</option>
+        </select>
+        <hr />
+
+        <!-- --------------------------------------------------------- -->
+        <!-- checkbox -->
+        <label for="phd">PH.d:-</label>
+        <input type="checkbox" id="phd" name="PHD" />
+        <label for="Diploma">Diploma:-</label>
+        <input type="checkbox" id="diploma" name="DIPLOMA" />
+        <label for="hsc">Degree:-</label>
+        <input type="checkbox" id="Degree" name="DEGREE" />
+        <hr />
+        <!-- ------------------------------------------------------------->
+        <!-- radiobox -->
+        <label for=""></label>
+        <input type="radio" name="Age" id="age1" />
+        <label for="10to20">10 - 20</label> |||
+        <input type="radio" name="Age" id="age2" />
+        <label for="20to30">20 - 30</label> |||
+        <input type="radio" name="Age" id="age3" />
+        <label for="30to40">30 - 40</label>
+        <hr />
+        <!-- --------------------------------------------------------- -->
+        <!---dateBOx  -->
+        <label for="date">Select Date : - </label>
+        <input type="date" id="date1" name="DATE" />
+
+        <hr />
+        <!-- ----------------------------------------------------------- -->
+        <!-- datalist -->
+        <label for="sports">Select your Favorite Sports :- </label>
+        <input list="sports" name="sport" id="sport" />
+        <datalist id="sports">
+          <option value="cricket"></option>
+          <option value="hockey"></option>
+          <option value="tennis"></option>
+          <option value="badminton"></option>
+          <option value="volleyball"></option>
+          <option value="Baseball"></option>
+          <option value="Football"></option>
+        </datalist>
+
+        <hr />
+
+        <!-- -------------------------------- -->
+        <!-- progress bar  -->
+        <label for="completeRecord"> Record Completed:- </label>
+        <progress value="55" max="100" style="color: aliceblue"></progress>
+      </fieldset>
+    </form>
+  </body>
+</html>

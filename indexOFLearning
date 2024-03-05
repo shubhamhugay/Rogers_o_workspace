@@ -1,0 +1,4 @@
+what have learned till now ? how to add script to the html file ? infile outfile
+scripting? how to search elements by class, id, tags, single, all? //
+querySelectors(); // querySelectorsAll(); // getElementById(); //
+getElementByClass();

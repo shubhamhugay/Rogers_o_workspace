@@ -1,0 +1,36 @@
+
+    Document Structure: <html>, <head>, <body>, <header>, <nav>, 
+                        <main>, <article>, <section>, <aside>, <footer>
+    
+    Text: <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, 
+         <li>, <dl>, <dt>, <dd>, <blockquote>, <q>, <abbr>, 
+          <cite>, <dfn>, <kbd>, <code>, <samp>, <var>, <pre>, <address>
+    
+    Links: <a>, <link>
+    
+    Images: <img>, <picture>, <svg>, <canvas>, <figcaption>, <figure>
+    
+    Tables: <table>, <caption>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>
+    
+    Forms: <form>, <input>, <button>, <textarea>, <select>, <option>,
+          <label>, <fieldset>, <legend>, <optgroup>, <datalist>
+    
+    Multimedia: <audio>, <video>, <source>, <track>, <embed>, <object>, <param>
+    
+    Text Formatting: <b>, <strong>, <i>, <em>, <u>, <small>, <mark>,
+        <sub>, <sup>, <code>, <pre>, <blockquote>, <q>, <abbr>, <cite>, 
+           <dfn>, <kbd>, <samp>, <var>
+    
+    Semantic and Additional: <details>, <summary>, <address>, <time>, <ruby>,
+       <rt>, <rp>, <bdi>, <dialog>, <slot>, <wbr>, <template>, <noscript>,
+         <script>, <style>, <meta>, <base>, <link>
+    
+    Interactive: <details>, <dialog>, <menu>, <menuitem>
+    
+    Miscellaneous: <col>, <colgroup>, <datalist>, <frameset>, <frame>, <tbody>,
+                   <tfoot>, <thead>, <template>, <track>
+    
+    Obsolete: <acronym>, <applet>, <basefont>, <big>, <blink>, <center>, <command>,
+           <content>, <dir>, <element>, <font>, <frame>, <frameset>, <image>, <isindex>,
+             <keygen>, <listing>, <marquee>, <menu>, <multicol>, <nextid>, <nobr>, <noembed>,
+               <noframes>, <plaintext>, <shadow>, <spacer>, <strike>, <tt>, <xmp>
