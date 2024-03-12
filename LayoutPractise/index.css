@@ -1,29 +1,10 @@
-.container {
-  border: 2px solid black;
-  height: 10rem;
-  width: 10rem;
-  margin: 10px;
+body {
   display: flex;
-  /* flex-direction: wrap; */
-  /* flex-flow: column nowrap; */
-  /* flex-wrap: wrap-reverse; */
-  
+  justify-content: center;
+  align-items: center;
 }
-
-.blocks {
-  border: 2px solid black;
-  margin: 3px;
+dialog:modal {
+  height: 15rem;
+  background-color: aqua;
+  width: 15rem;
 }
-
-/* //flexbox practise */
-
-/* flexbox  */
-/* it is designed for one dimensional content */
-
-/* how to control direction of css
-flex-direction:column
-               row
-               column-reverse
-               row-reverse */
-
-/* flex-flow is the shorthand property of flex-direction flex-wrap */
