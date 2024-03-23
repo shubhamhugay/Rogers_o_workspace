@@ -47,6 +47,8 @@ ob2.greatMessage();
 // computed Properties
 
 var key = readLineSync.question("enter the key to retrieve the info ?");
+var course = readLineSync.question("enter the name of the course ");
+
 const ob3 = {
   name: "shubham",
   greatMessage() {
@@ -56,6 +58,9 @@ const ob3 = {
   by() {
     console.log("by  by  by  by by  by  by by  y  y ");
   },
+  [course]: "course not available",
 };
 
 console.log(ob3[key]);
+console.log(ob3);
+console.log(ob3[course]);
