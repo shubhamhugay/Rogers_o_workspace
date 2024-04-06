@@ -80,6 +80,6 @@
 
 // console.log(ob4.name);
 
-const { a, b } = { c: 10, d: 20 };
+const q = { c: 10, d: 20 };
 
-console.log(c);
+console.log(q);

@@ -2,23 +2,24 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     to left top,
     #a8aeb8,
     #8fb2c0,
     #74b7b4,
     #78b794,
     #9bb16b
-  );
+  ); */
+  background-image: url("https://cdn.pixabay.com/photo/2019/02/20/15/11/turtle-4009341_640.jpg");
 }
 
 form {
   max-width: 500px;
   margin: 20px auto;
   padding: 20px;
-  background-color: #141414;
+  background-color: #faf8f8;
   border-radius: 8px;
-  color: white;
+  color: rgb(15, 14, 14);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 

@@ -29,12 +29,13 @@ header {
 }
 
 .website-title {
-  margin: 0;
   font-size: 24px;
   font-weight: bold;
   color: #f4eeee;
   padding: 55px;
   margin-left: 900px;
+  border-top: 2px solid rgb(227, 227, 227);
+  border-bottom: 2px solid rgb(227, 227, 227);
 }
 
 h2 {

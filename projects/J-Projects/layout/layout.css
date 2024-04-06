@@ -1,0 +1,140 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  /* right: 0px; */
+  top: 2px;
+  right: 2px;
+}
+
+/* template design end */
+.whatsapp_logo {
+  width: 150px;
+  height: 100px;
+  /* background-color: green; */
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+}
+.whatsapp_logo:hover {
+  width: 155px;
+  height: 105px;
+  /* transition: 1s; */
+}
+
+/* ========================================================= */
+
+header {
+  background-color: transparent;
+  padding: 30px;
+  background-image: url("./ITV_logo.png");
+  background-size: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.headButton {
+  float: inline-end;
+}
+.navLogo {
+  margin-left: 14px;
+}
+
+button {
+  background-color: rgb(126, 124, 124);
+  color: rgb(248, 250, 244);
+  border-radius: 15px;
+
+  border-color: aliceblue;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+}
+/* ------------------------------------------------- */
+.contentHeading {
+  text-align: center;
+  margin: 20px;
+  background-color: #b9d719;
+  color: white;
+  padding: 10px;
+}
+.contentContainer {
+  margin-top: 10px;
+}
+.infoSectionLeft {
+  position: relative;
+  float: left;
+
+  height: 30vh;
+  width: 28vw;
+  margin-left: 20px;
+  border-radius: 15px;
+  font-size: 2rem;
+  text-align: center;
+  padding: 20px;
+  color: whitesmoke;
+  background-color: black;
+}
+
+.photoSection {
+  display: inline-block;
+  border: 2px solid rgb(245, 239, 239);
+  height: 60vh;
+  margin-left: 20px;
+  width: 35vw;
+  border-radius: 15px;
+
+  color: whitesmoke;
+  background-color: black;
+}
+.infoSectionRight {
+  /* display: inline-block; */
+  position: relative;
+  float: right;
+
+  height: 30vh;
+  width: 30vw;
+  margin-left: 20px;
+  border-radius: 15px;
+  text-align: center;
+  padding: 60px;
+  color: whitesmoke;
+  background-color: black;
+}
+
+.course-details {
+  background-color: rgb(238, 238, 238);
+  color: #080808;
+  padding: 50px;
+  text-align: center;
+  border-radius: 30px;
+}
+
+/* ================================================================== */
+article {
+  margin: auto;
+  border: 2px solid black;
+}
+
+.left_section {
+  position: relative;
+  width: 30%;
+  height: 100%;
+  float: left;
+  border: 1px solid red;
+}
+
+.right_section {
+  position: relative;
+  width: 30%;
+  height: 100%;
+  float: left;
+  border: 1px solid green;
+}
+
+span {
+  display: inline-block;
+  /* float: left; */
+}
