@@ -42,5 +42,25 @@ section {
 }
 
 /* --------------------------------------------------------------------------------------------------------- */
-.container {
+
+.card {
+  padding: 30px;
+  border: 2px solid black;
+  height: 70vh;
+}
+
+.img1 {
+  float: right;
+  margin-right: 10vh;
+  margin-left: 10vh;
+}
+
+.course-info {
+  padding: 20px;
+  font-size: 25px;
+}
+.course-heading {
+  font-size: 35px;
+  text-decoration: underline;
+  margin-left: 30px;
 }
