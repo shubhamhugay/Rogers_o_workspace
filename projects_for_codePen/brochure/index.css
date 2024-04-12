@@ -18,9 +18,9 @@ header {
   color: white;
   padding: 10px;
 }
-article {
-  background-color: black;
-}
+/* article {
+    /* background-color: black; 
+  } */
 
 section {
   display: inline-block;
@@ -45,8 +45,10 @@ section {
 
 .card {
   padding: 30px;
-  border: 2px solid black;
-  height: 70vh;
+  border: 2px solid rgb(230, 224, 224);
+  height: 80vh;
+  background-color: #cfd6d6;
+  color: rgb(37, 36, 36);
 }
 
 .img1 {
